@@ -24,3 +24,5 @@ Los comandos mas importantes de Git:
 -Git branch: Lista o crea ramas. 
 
 -Git merge <rama>: Fusiona ramas. 
+
+[GitHub y Git.pdf](https://github.com/user-attachments/files/19096682/GitHub.y.Git.pdf)
