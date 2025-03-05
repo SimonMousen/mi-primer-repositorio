@@ -26,3 +26,4 @@ Los comandos mas importantes de Git:
 -Git merge <rama>: Fusiona ramas. 
 
 [GitHub y Git.pdf](https://github.com/user-attachments/files/19096682/GitHub.y.Git.pdf)
+[presgit.pptx](https://github.com/user-attachments/files/19096698/presgit.pptx)
