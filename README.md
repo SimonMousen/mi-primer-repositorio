@@ -8,10 +8,17 @@ Git es una herramienta que nos permite tener un control de las versiones del cod
 Los comandos mas importantes de Git:
 
 -Git init: Inicializa un repositorio. 
+
 -Git clone <URL>: Clona un repositorio reomoto.
+
 -Git add <archivo>: Añade cambios al string area. 
+
 -Git commit –m “mensaje”: Guarda los cambios en el historial. 
+
 -Git push: Sube cambios al repositorio remoto. 
+
 -Git pull: Descarga cambios del repositorio. 
+
 -Git branch: Lista o crea ramas. 
+
 -Git merge <rama>: Fusiona ramas. 
